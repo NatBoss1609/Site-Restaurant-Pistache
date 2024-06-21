@@ -13,7 +13,7 @@
 <body>
     <header>
         <div class="logo">
-            <a href="../../index.html" title="lien vers la page d'accueil"><img src="../img/logo.png" alt="logo restaurant pistache"></a>
+            <a href="../../index.php" title="lien vers la page d'accueil"><img src="../img/logo.png" alt="logo restaurant pistache"></a>
         </div>
         <div class="menu">
             <nav>
